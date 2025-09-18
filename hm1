@@ -1,0 +1,24 @@
+The dataset appears to be a typical Titanic dataset containing information on passengers. Key columns include:
+	•	PassengerId: Unique ID for each passenger.
+	•	Survived: Survival status (0 = No, 1 = Yes).
+	•	Pclass: Passenger class (1, 2, or 3).
+	•	Name: Name of the passenger.
+	•	Sex: Gender of the passenger.
+	•	Age: Age of the passenger.
+	•	SibSp: Number of siblings/spouses aboard.
+	•	Parch: Number of parents/children aboard.
+	•	Ticket: Ticket number.
+	•	Fare: Fare paid for the ticket.
+	•	Cabin: Cabin number (missing values).
+	•	Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton).
+
+Next, let’s explore the dataset by visualizing the key attributes and relationships. I’ll create the following visualizations:
+	1.	Survival Rate by Gender
+	2.	Survival Rate by Passenger Class
+	3.	Age Distribution of Passengers
+	4.	Fare Distribution
+	5.	Survival Rate by Embarked Port
+
+
+
+https://chatgpt.com/share/68cbb4df-97c8-8010-a45b-fe49353e4e15 

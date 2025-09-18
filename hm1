@@ -22,3 +22,11 @@ Next, let’s explore the dataset by visualizing the key attributes and relation
 
 
 https://chatgpt.com/share/68cbb4df-97c8-8010-a45b-fe49353e4e15 
+
+
+Here are the key insights from the graphs based on the Titanic dataset:
+	1.	Survival Rate by Gender: The survival rate for females was significantly higher than for males, with females having a much higher probability of survival.
+	2.	Survival Rate by Passenger Class: Passengers in Class 1 had the highest survival rate, followed by those in Class 2. Passengers in Class 3 had the lowest survival rate.
+	3.	Age Distribution of Passengers: The majority of passengers were relatively young, with a peak in the 20–30 age range. There were fewer older passengers.
+	4.	Fare Distribution: Most passengers paid a low fare, with a few individuals paying significantly higher amounts. The distribution is highly skewed to the right.
+	5.	Survival Rate by Embarked Port: Passengers who boarded from port ‘C’ (Cherbourg) had the highest survival rate, followed by port ‘S’ (Southampton) and port ‘Q’ (Queenstown).
